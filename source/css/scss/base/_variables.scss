@@ -1,1 +1,25 @@
-// Toutes vos variables vont ici
+/*
+* -----------------------------------------------------------------------------
+* COLORS
+*-----------------------------------------------------------------------------
+*/
+
+$white: #FFFFFF;
+$light-grey: #767676;
+$dark-grey: #333333;
+$black: #000000;
+$red: #B50938;
+
+/*
+* -----------------------------------------------------------------------------
+* FONTS
+*-----------------------------------------------------------------------------
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Lato|Sorts+Mill+Goudy');
+
+$main-font: 'Sorts Mill Goudy', serif;
+$secondary-font: 'Lato', sans-serif;
+
+$spaced: 0.1em;
+$bold: bold;
